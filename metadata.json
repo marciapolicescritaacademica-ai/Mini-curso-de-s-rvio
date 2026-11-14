@@ -1,0 +1,8 @@
+{
+  "name": "Dobrodošli — Minicurso de Língua Sérvia",
+  "description": "Minicurso interativo de língua sérvia para iniciantes com alfabeto cirílico, exemplos com áudio, quizzes por módulo e trilha de progresso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

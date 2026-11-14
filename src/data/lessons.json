@@ -1,0 +1,674 @@
+[
+  {
+    "id": "les-1-1",
+    "moduleId": "mod-1",
+    "order": 1,
+    "title": "História e Identidade da Língua Sérvia",
+    "summary": "Descubra as origens eslavas do sérvio, a reforma fonética de Vuk Karadžić e por que o país usa dois alfabetos ao mesmo tempo.",
+    "durationMinutes": 8,
+    "level": "Iniciante",
+    "includesAlphabetBoard": false,
+    "sections": [
+      {
+        "heading": "Uma língua eslava do sul com dois alfabetos",
+        "paragraphs": [
+          "O sérvio (српски језик / srpski jezik) pertence ao ramo meridional das línguas eslavas, falado por cerca de 12 milhões de pessoas na Sérvia, Bósnia e Herzegovina, Montenegro e comunidades ao redor do mundo.",
+          "Uma das características mais fascinantes do idioma é a digrafia oficial: os falantes usam tanto o alfabeto cirílico sérvio (Ћирилица / Ćirilica) quanto o alfabeto latino adaptado (Латиница / Latinica). Placas de rua, livros, cardápios e aplicativos alternam entre os dois sistemas com total naturalidade."
+        ],
+        "tip": "Se você aprender a ler o cirílico logo no início, todo o alfabeto latino sérvio fará sentido imediato, pois existe uma correspondência exata de 1 para 1 entre as 30 letras de cada sistema."
+      },
+      {
+        "heading": "A regra de ouro de Vuk Karadžić",
+        "paragraphs": [
+          "No século XIX, o linguista e folclorista Vuk Stefanović Karadžić modernizou o idioma seguindo um princípio revolucionário: 'Пиши као што говориш, читај како је написано' (Escreva como você fala, leia exatamente como está escrito).",
+          "Diferente do português ou do inglês, onde uma mesma letra pode ter vários sons (como o 'x' em táxi, xícara e próximo), no sérvio cada letra representa um único som constante. Não existem letras mudas."
+        ],
+        "examples": [
+          {
+            "id": "ex-1-1-1",
+            "cyrillic": "Српски језик",
+            "latin": "Srpski jezik",
+            "transliteration": "srp-ski iê-zik",
+            "portuguese": "Língua sérvia",
+            "note": "Note como 'srpski' tem um R que funciona como vogal entre consoantes."
+          },
+          {
+            "id": "ex-1-1-2",
+            "cyrillic": "Добродошли",
+            "latin": "Dobrodošli",
+            "transliteration": "do-bro-dô-chli",
+            "portuguese": "Bem-vindos",
+            "note": "Palavra composta por 'dobro' (bom) + 'došli' (vindos)."
+          },
+          {
+            "id": "ex-1-1-3",
+            "cyrillic": "Београд",
+            "latin": "Beograd",
+            "transliteration": "bê-o-grad",
+            "portuguese": "Belgrado",
+            "note": "Literalmente 'Cidade Branca' (beo = branco, grad = cidade)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "les-1-2",
+    "moduleId": "mod-1",
+    "order": 2,
+    "title": "O Alfabeto Cirílico Sérvio (Azbuka)",
+    "summary": "Explore as 30 letras da Azbuka em grupos fáceis de memorizar: letras amigas, falsos amigos visuais e consoantes exclusivas do sérvio.",
+    "durationMinutes": 12,
+    "level": "Iniciante",
+    "includesAlphabetBoard": true,
+    "sections": [
+      {
+        "heading": "Não precisa decorar tudo de uma vez: divida em 3 grupos",
+        "paragraphs": [
+          "Embora o cirílico pareça distante à primeira vista, muitas letras já são velhas conhecidas suas. Seis letras têm exatamente a mesma aparência e o mesmo som que no português: А, Е, К, М, О, Т.",
+          "Um segundo grupo exige atenção especial porque são 'falsos amigos' visuais: parecem letras latinas, mas têm outro som. Por exemplo, В soa como V, Н soa como N, Р soa como R, С soa como S, У soa como U e Х soa como H aspirado.",
+          "Por fim, há letras tipicamente sérvias criadas ou adaptadas para sons suaves, como Љ (lh), Њ (nh), Ћ (tch suave) e Ђ (dj suave)."
+        ],
+        "tip": "Clique em qualquer letra no painel interativo abaixo para ouvir sua pronúncia e ver uma palavra de exemplo."
+      },
+      {
+        "heading": "Palavras curtas para destravar a leitura",
+        "paragraphs": [
+          "Leia em voz alta tentando decifrar primeiro em cirílico e depois confira a transliteração e o áudio."
+        ],
+        "examples": [
+          {
+            "id": "ex-1-2-1",
+            "cyrillic": "Кафа",
+            "latin": "Kafa",
+            "transliteration": "ka-fa",
+            "portuguese": "Café",
+            "note": "K e A são idênticos; Ф equivale ao F."
+          },
+          {
+            "id": "ex-1-2-2",
+            "cyrillic": "Вода",
+            "latin": "Voda",
+            "transliteration": "vo-da",
+            "portuguese": "Água",
+            "note": "В tem som de V, nunca de B."
+          },
+          {
+            "id": "ex-1-2-3",
+            "cyrillic": "Сунце",
+            "latin": "Sunce",
+            "transliteration": "sun-tsê",
+            "portuguese": "Sol",
+            "note": "С soa como S e Ц soa como 'ts'."
+          },
+          {
+            "id": "ex-1-2-4",
+            "cyrillic": "Љубав",
+            "latin": "Ljubav",
+            "transliteration": "lhu-bav",
+            "portuguese": "Amor",
+            "note": "Љ tem exatamente o som de 'lh' em português."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "les-1-3",
+    "moduleId": "mod-1",
+    "order": 3,
+    "title": "Guia de Pronúncia e Sons Especiais",
+    "summary": "Domine as vogais puras, a diferença entre Č e Ć, o R vibrante que funciona como vogal e os acentos da língua sérvia.",
+    "durationMinutes": 10,
+    "level": "Iniciante",
+    "includesAlphabetBoard": false,
+    "sections": [
+      {
+        "heading": "Vogais puras e consoantes secas",
+        "paragraphs": [
+          "As cinco vogais do sérvio (А, Е, И, О, У) são sempre claras e puras. Diferente do português brasileiro, o 'o' no final da palavra nunca vira 'u', e o 'e' nunca vira 'i'. Em 'dobro' (bom), pronuncie claramente os dois 'os'.",
+          "As consoantes Д (D) e Т (T) são sempre secas, mesmo antes da vogal И (I). Ouça como 'ti' em sérvio não vira 'tchi'."
+        ],
+        "tip": "Se você pronuncia 'dia' como 'djia' no português brasileiro, tente fazer um D seco como em 'dado' ao falar palavras sérvias com Д."
+      },
+      {
+        "heading": "Os pares Č / Ć e Dž / Đ e o R vocálico",
+        "paragraphs": [
+          "No sérvio existem dois sons de 'tch': Ч (Č) é mais firme e forte, como em 'tchau'; já Ћ (Ć) é mais leve e suave, com a língua tocando o palato, muito próximo ao 't' carioca/paulista em 'tia'.",
+          "Outra curiosidade é o R (Р) silábico: em palavras como 'Србија' (Srbija) ou 'трг' (trg - praça), o R vibrante carrega a sílaba sozinho sem precisar de vogal escrita antes dele."
+        ],
+        "examples": [
+          {
+            "id": "ex-1-3-1",
+            "cyrillic": "Србија",
+            "latin": "Srbija",
+            "transliteration": "sêr-bi-ia",
+            "portuguese": "Sérvia",
+            "note": "O Ј (J) sempre tem som de 'i' curto (semivogal), nunca de 'j' português."
+          },
+          {
+            "id": "ex-1-3-2",
+            "cyrillic": "Ноћ",
+            "latin": "Noć",
+            "transliteration": "nôtch (suave)",
+            "portuguese": "Noite",
+            "note": "Н = N, О = O, Ћ = Ć."
+          },
+          {
+            "id": "ex-1-3-3",
+            "cyrillic": "Чај",
+            "latin": "Čaj",
+            "transliteration": "tchai",
+            "portuguese": "Chá",
+            "note": "Ч = Č firme + А + Ј (som de i)."
+          },
+          {
+            "id": "ex-1-3-4",
+            "cyrillic": "Трг",
+            "latin": "Trg",
+            "transliteration": "têrg",
+            "portuguese": "Praça",
+            "note": "Exemplo clássico de R funcionando como centro da sílaba."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "les-2-1",
+    "moduleId": "mod-2",
+    "order": 1,
+    "title": "Cumprimentos Formais e Informais",
+    "summary": "Aprenda a dizer olá em qualquer hora do dia e saiba quando usar 'ti' (informal) ou 'Vi' (formal).",
+    "durationMinutes": 9,
+    "level": "Iniciante",
+    "includesAlphabetBoard": false,
+    "sections": [
+      {
+        "heading": "Cumprimentos pelo horário do dia",
+        "paragraphs": [
+          "Para cumprimentar em lojas, escritórios ou pessoas desconhecidas, o sérvio utiliza expressões equivalentes ao nosso bom dia, boa tarde e boa noite, mas com pequenas variações de gênero no adjetivo 'bom' (dobar / dobro).",
+          "Repare que 'dan' (dia) é masculino, por isso usa 'dobar dan'. Já 'jutro' (manhã) e 'veče' (noite/fim de tarde) são neutros, usando 'dobro'."
+        ],
+        "examples": [
+          {
+            "id": "ex-2-1-1",
+            "cyrillic": "Добро јутро",
+            "latin": "Dobro jutro",
+            "transliteration": "dô-bro iú-tro",
+            "portuguese": "Bom dia (manhã)",
+            "note": "Usado geralmente até por volta das 10h–11h."
+          },
+          {
+            "id": "ex-2-1-2",
+            "cyrillic": "Добар дан",
+            "latin": "Dobar dan",
+            "transliteration": "dô-bar dan",
+            "portuguese": "Boa tarde / Bom dia (durante o dia)",
+            "note": "O cumprimento mais universal durante todo o período diurno."
+          },
+          {
+            "id": "ex-2-1-3",
+            "cyrillic": "Добро вече",
+            "latin": "Dobro veče",
+            "transliteration": "dô-bro vê-tche",
+            "portuguese": "Boa noite (ao chegar)",
+            "note": "Usado ao anoitecer como cumprimento de chegada."
+          },
+          {
+            "id": "ex-2-1-4",
+            "cyrillic": "Лаку ноћ",
+            "latin": "Laku noć",
+            "transliteration": "lá-ku nôtch",
+            "portuguese": "Boa noite (ao ir dormir)",
+            "note": "Usado apenas como despedida noturna antes de dormir."
+          }
+        ]
+      },
+      {
+        "heading": "Entre amigos e perguntando como vai",
+        "paragraphs": [
+          "Com amigos, jovens e familiares, você ouvirá com muita frequência 'Здраво' (Zdravo — literalmente 'com saúde') e 'Ћао' (Ćao — vindo do italiano 'ciao', usado tanto para oi quanto para tchau).",
+          "Ao perguntar 'Como vai?', use 'Како си?' (Kako si?) para uma pessoa próxima e 'Како сте?' (Kako ste?) em contextos formais ou para falar com mais de uma pessoa."
+        ],
+        "tip": "Em sérvio, o pronome sujeito costuma ser omitido na frase porque o verbo já indica a pessoa: 'Добро сам' significa 'Estou bem' sem precisar dizer 'Ја' (eu)."
+      },
+      {
+        "heading": "Praticando o diálogo curto",
+        "paragraphs": [
+          "Ouça e repita estas respostas úteis para uma conversa inicial."
+        ],
+        "examples": [
+          {
+            "id": "ex-2-1-5",
+            "cyrillic": "Здраво! Како си?",
+            "latin": "Zdravo! Kako si?",
+            "transliteration": "zdrá-vo! ká-ko si?",
+            "portuguese": "Olá! Como você está? (informal)"
+          },
+          {
+            "id": "ex-2-1-6",
+            "cyrillic": "Добро сам, хвала. А ви?",
+            "latin": "Dobro sam, hvala. A vi?",
+            "transliteration": "dô-bro sam, rvá-la. a vi?",
+            "portuguese": "Estou bem, obrigado(a). E o(a) senhor(a)?",
+            "note": "'Vi' com letra maiúscula na escrita indica tratamento formal."
+          },
+          {
+            "id": "ex-2-1-7",
+            "cyrillic": "Није лоше",
+            "latin": "Nije loše",
+            "transliteration": "ni-ê lô-chê",
+            "portuguese": "Nada mal / Mais ou menos"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "les-2-2",
+    "moduleId": "mod-2",
+    "order": 2,
+    "title": "Apresentando-se em Sérvio",
+    "summary": "Diga seu nome, de onde você vem, pergunte o nome de alguém e expresse prazer em conhecer a pessoa.",
+    "durationMinutes": 10,
+    "level": "Iniciante",
+    "includesAlphabetBoard": false,
+    "sections": [
+      {
+        "heading": "Dizendo seu nome e conhecendo pessoas",
+        "paragraphs": [
+          "Existem duas formas naturais de se apresentar em sérvio: usando o verbo ser ('Ја сам...' = Eu sou...) ou a expressão reflexiva 'Зовем се...' (Zovem se = Chamo-me).",
+          "Quando alguém se apresenta, a resposta educada padrão é 'Драго ми је' (Drago mi je), equivalente a 'Prazer em conhecê-lo(a)'."
+        ],
+        "examples": [
+          {
+            "id": "ex-2-2-1",
+            "cyrillic": "Зовем се Ана.",
+            "latin": "Zovem se Ana.",
+            "transliteration": "zó-vem sê á-na",
+            "portuguese": "Meu nome é Ana / Chamo-me Ana."
+          },
+          {
+            "id": "ex-2-2-2",
+            "cyrillic": "Како се зовете?",
+            "latin": "Kako se zovete?",
+            "transliteration": "ká-ko sê zó-vê-tê?",
+            "portuguese": "Como o(a) senhor(a) se chama? (formal)",
+            "note": "Na forma informal, diga: 'Kako se zoveš?'."
+          },
+          {
+            "id": "ex-2-2-3",
+            "cyrillic": "Драго ми је!",
+            "latin": "Drago mi je!",
+            "transliteration": "drá-go mi iê!",
+            "portuguese": "Prazer em conhecer!"
+          }
+        ]
+      },
+      {
+        "heading": "Falando de origem e idioma",
+        "paragraphs": [
+          "Para dizer de qual país você vem, use a preposição 'из' (iz = de/vindo de). Note que o nome do país muda a terminação por causa do caso genitivo: 'Бразил' vira 'из Бразила' e 'Португал' vira 'из Португала'."
+        ],
+        "examples": [
+          {
+            "id": "ex-2-2-4",
+            "cyrillic": "Одакле сте?",
+            "latin": "Odakle ste?",
+            "transliteration": "o-dá-klê stê?",
+            "portuguese": "De onde você é? (formal / plural)",
+            "note": "Informal: 'Odakle si?'."
+          },
+          {
+            "id": "ex-2-2-5",
+            "cyrillic": "Ја сам из Бразила.",
+            "latin": "Ja sam iz Brazila.",
+            "transliteration": "iá sam iz bra-zí-la",
+            "portuguese": "Eu sou do Brasil."
+          },
+          {
+            "id": "ex-2-2-6",
+            "cyrillic": "Учим српски језик.",
+            "latin": "Učim srpski jezik.",
+            "transliteration": "ú-tchim srp-ski iê-zik",
+            "portuguese": "Estou aprendendo a língua sérvia."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "les-2-3",
+    "moduleId": "mod-2",
+    "order": 3,
+    "title": "Palavras Mágicas e Despedidas",
+    "summary": "Agradeça, peça com educação, peça desculpas e despeça-se com naturalidade no cotidiano sérvio.",
+    "durationMinutes": 8,
+    "level": "Iniciante",
+    "includesAlphabetBoard": false,
+    "sections": [
+      {
+        "heading": "Cortesia essencial",
+        "paragraphs": [
+          "Em qualquer idioma, saber agradecer e pedir licença abre portas. Em sérvio, 'Хвала' (Hvala) é a palavra-chave para agradecer — lembre-se que o Х tem som de H aspirado bem suave.",
+          "A palavra 'Молим' (Molim) é extremamente versátil: significa 'por favor' ao fazer um pedido, 'de nada' após um agradecimento, e 'pois não / como?' quando você atende alguém ou não ouviu bem."
+        ],
+        "examples": [
+          {
+            "id": "ex-2-3-1",
+            "cyrillic": "Хвала пуно!",
+            "latin": "Hvala puno!",
+            "transliteration": "rvá-la pú-no!",
+            "portuguese": "Muito obrigado(a)!"
+          },
+          {
+            "id": "ex-2-3-2",
+            "cyrillic": "Молим / Нема на чему",
+            "latin": "Molim / Nema na čemu",
+            "transliteration": "mó-lim / nê-ma na tchê-mu",
+            "portuguese": "De nada / Não há de quê"
+          },
+          {
+            "id": "ex-2-3-3",
+            "cyrillic": "Извините",
+            "latin": "Izvinite",
+            "transliteration": "iz-vi-ní-tê",
+            "portuguese": "Com licença / Desculpe (formal)",
+            "note": "Para amigos próximos, usa-se 'Izvini'."
+          },
+          {
+            "id": "ex-2-3-4",
+            "cyrillic": "Довиђења!",
+            "latin": "Doviđenja!",
+            "transliteration": "do-vi-djê-nha!",
+            "portuguese": "Até logo! / Adeus (formal)"
+          },
+          {
+            "id": "ex-2-3-5",
+            "cyrillic": "Видимо се!",
+            "latin": "Vidimo se!",
+            "transliteration": "ví-di-mo sê!",
+            "portuguese": "A gente se vê!"
+          }
+        ],
+        "tip": "Se estiver em um restaurante ou passando perto de alguém comendo, diga 'Пријатно!' (Prijatno!) — equivale ao nosso 'Bom apetite!'."
+      }
+    ]
+  },
+  {
+    "id": "les-3-1",
+    "moduleId": "mod-3",
+    "order": 1,
+    "title": "Números de 0 a 20 e Dezenas",
+    "summary": "Conte em sérvio com pronúncia clara e entenda a lógica simples para formar números até 100.",
+    "durationMinutes": 10,
+    "level": "Iniciante",
+    "includesAlphabetBoard": false,
+    "sections": [
+      {
+        "heading": "Os primeiros dez números",
+        "paragraphs": [
+          "Os números de 1 a 10 são a base de tudo. A partir do 11, basta juntar o dígito + 'naest' (como 'onze' = jedanaest, 'doze' = dvanaest).",
+          "Já as dezenas terminam em '-deset': dvadeset (20), trideset (30), četrdeset (40), pedeset (50)."
+        ],
+        "examples": [
+          {
+            "id": "ex-3-1-1",
+            "cyrillic": "Један, два, три",
+            "latin": "Jedan, dva, tri",
+            "transliteration": "iê-dan, dva, tri",
+            "portuguese": "Um, dois, três"
+          },
+          {
+            "id": "ex-3-1-2",
+            "cyrillic": "Четири, пет, шест",
+            "latin": "Četiri, pet, šest",
+            "transliteration": "tchê-ti-ri, pêt, chêst",
+            "portuguese": "Quatro, cinco, seis"
+          },
+          {
+            "id": "ex-3-1-3",
+            "cyrillic": "Седам, осам, девет, десет",
+            "latin": "Sedam, osam, devet, deset",
+            "transliteration": "sê-dam, ô-sam, dê-vet, dê-set",
+            "portuguese": "Sete, oito, nove, dez"
+          },
+          {
+            "id": "ex-3-1-4",
+            "cyrillic": "Двадесет / Сто",
+            "latin": "Dvadeset / Sto",
+            "transliteration": "dvá-de-set / sto",
+            "portuguese": "Vinte / Cem"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "les-3-2",
+    "moduleId": "mod-3",
+    "order": 2,
+    "title": "Cores e Dias da Semana",
+    "summary": "Aprenda as cores principais (incluindo as da bandeira sérvia) e os sete dias da semana.",
+    "durationMinutes": 9,
+    "level": "Iniciante",
+    "includesAlphabetBoard": false,
+    "sections": [
+      {
+        "heading": "Cores da bandeira e do cotidiano",
+        "paragraphs": [
+          "As cores da bandeira sérvia são vermelho (црвена / crvena), azul (плава / plava) e branco (бела / bela). Os adjetivos de cor concordam em gênero com o substantivo — aqui apresentamos a forma feminina mais usada isoladamente (-a) e o neutro (-o)."
+        ],
+        "examples": [
+          {
+            "id": "ex-3-2-1",
+            "cyrillic": "Црвена, плава, бела",
+            "latin": "Crvena, plava, bela",
+            "transliteration": "tsêr-ve-na, plá-va, bê-la",
+            "portuguese": "Vermelho, azul, branco"
+          },
+          {
+            "id": "ex-3-2-2",
+            "cyrillic": "Зелена, жута, црна",
+            "latin": "Zelena, žuta, crna",
+            "transliteration": "zê-le-na, jú-ta, tsêr-na",
+            "portuguese": "Verde, amarelo, preto"
+          }
+        ]
+      },
+      {
+        "heading": "Os dias da semana",
+        "paragraphs": [
+          "Em sérvio, os dias da semana são escritos com letra minúscula no meio da frase e muitos revelam sua ordem numérica: 'utorak' (segundo dia), 'sreda' (meio da semana), 'četvrtak' (quarto dia), 'petak' (quinto dia)."
+        ],
+        "examples": [
+          {
+            "id": "ex-3-2-3",
+            "cyrillic": "Понедељак, уторак, среда",
+            "latin": "Ponedeljak, utorak, sreda",
+            "transliteration": "po-ne-dê-lhak, ú-to-rak, srê-da",
+            "portuguese": "Segunda, terça, quarta"
+          },
+          {
+            "id": "ex-3-2-4",
+            "cyrillic": "Четвртак, петак, субота, недеља",
+            "latin": "Četvrtak, petak, subota, nedelja",
+            "transliteration": "tchêt-vêr-tak, pê-tak, sú-bo-ta, nê-de-lha",
+            "portuguese": "Quinta, sexta, sábado, domingo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "les-4-1",
+    "moduleId": "mod-4",
+    "order": 1,
+    "title": "No Café e no Restaurante",
+    "summary": "Frases práticas para pedir bebidas, perguntar valores e solicitar a conta com educação.",
+    "durationMinutes": 10,
+    "level": "Básico",
+    "includesAlphabetBoard": false,
+    "sections": [
+      {
+        "heading": "Fazendo seu pedido",
+        "paragraphs": [
+          "A cultura do café (кафа / kafa) é muito forte na Sérvia. Para pedir algo de forma educada e direta, basta dizer o item seguido de 'молим' (por favor) ou iniciar com 'Могу ли да добијем...?' (Posso pedir/ter...?)."
+        ],
+        "examples": [
+          {
+            "id": "ex-4-1-1",
+            "cyrillic": "Једну кафу, молим.",
+            "latin": "Jednu kafu, molim.",
+            "transliteration": "iêd-nu ká-fu, mó-lim",
+            "portuguese": "Um café, por favor.",
+            "note": "'Kafa' muda para 'kafu' no acusativo por ser objeto direto do pedido."
+          },
+          {
+            "id": "ex-4-1-2",
+            "cyrillic": "Колико кошта?",
+            "latin": "Koliko košta?",
+            "transliteration": "ko-lí-ko kôch-ta?",
+            "portuguese": "Quanto custa?"
+          },
+          {
+            "id": "ex-4-1-3",
+            "cyrillic": "Рачун, молим.",
+            "latin": "Račun, molim.",
+            "transliteration": "rá-tchun, mó-lim",
+            "portuguese": "A conta, por favor."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "les-4-2",
+    "moduleId": "mod-4",
+    "order": 2,
+    "title": "Pedindo Informações na Cidade",
+    "summary": "Localize lugares usando 'Gde je...?', aprenda direções básicas e diga quando não entendeu algo.",
+    "durationMinutes": 10,
+    "level": "Básico",
+    "includesAlphabetBoard": false,
+    "sections": [
+      {
+        "heading": "Direções e compreensão",
+        "paragraphs": [
+          "Se precisar encontrar uma estação, rua ou praça, comece com 'Извините, где је...?' (Com licença, onde fica...?). E não tenha receio de avisar que ainda está aprendendo o idioma."
+        ],
+        "examples": [
+          {
+            "id": "ex-4-2-1",
+            "cyrillic": "Извините, где је центар?",
+            "latin": "Izvinite, gde je centar?",
+            "transliteration": "iz-vi-ní-tê, gdê iê tsên-tar?",
+            "portuguese": "Com licença, onde fica o centro?"
+          },
+          {
+            "id": "ex-4-2-2",
+            "cyrillic": "Лево, десно, право",
+            "latin": "Levo, desno, pravo",
+            "transliteration": "lê-vo, dês-no, prá-vo",
+            "portuguese": "Esquerda, direita, reto"
+          },
+          {
+            "id": "ex-4-2-3",
+            "cyrillic": "Не разумем. Можете ли поновити?",
+            "latin": "Ne razumem. Možete li ponoviti?",
+            "transliteration": "nê ra-zú-mem. mô-jê-tê li po-nó-vi-ti?",
+            "portuguese": "Não entendo. Pode repetir?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "les-5-1",
+    "moduleId": "mod-5",
+    "order": 1,
+    "title": "Gênero dos Substantivos e Pronomes Pessoais",
+    "summary": "Identifique facilmente se uma palavra é masculina, feminina ou neutra pela terminação e conheça os pronomes pessoais.",
+    "durationMinutes": 12,
+    "level": "Básico",
+    "includesAlphabetBoard": false,
+    "sections": [
+      {
+        "heading": "Os três gêneros em sérvio",
+        "paragraphs": [
+          "Diferente do português (que tem 2 gêneros), o sérvio possui 3 gêneros gramaticais: masculino, feminino e neutro. A boa notícia é que na grande maioria das vezes a última letra entrega o gênero:",
+          "• Masculino: termina em consoante (град = cidade, сто = mesa, брат = irmão). • Feminino: termina em -а (вода = água, кафа = café, књига = livro). • Neutro: termina em -о ou -е (јутро = manhã, море = mar, име = nome)."
+        ],
+        "tip": "Não há artigos definidos ou indefinidos ('o', 'a', 'um', 'uma') em sérvio! 'Књига' significa tanto 'livro', quanto 'um livro' ou 'o livro', dependendo do contexto."
+      },
+      {
+        "heading": "Pronomes pessoais",
+        "paragraphs": [
+          "Estes são os pronomes sujeitos usados para conjugar verbos no presente:"
+        ],
+        "examples": [
+          {
+            "id": "ex-5-1-1",
+            "cyrillic": "Ја, ти, он, она, оно",
+            "latin": "Ja, ti, on, ona, ono",
+            "transliteration": "iá, ti, on, ô-na, ô-no",
+            "portuguese": "Eu, tu/você, ele, ela, ele/ela (neutro)"
+          },
+          {
+            "id": "ex-5-1-2",
+            "cyrillic": "Ми, ви, они, оне",
+            "latin": "Mi, vi, oni, one",
+            "transliteration": "mi, vi, ô-ni, ô-ne",
+            "portuguese": "Nós, vocês/senhor(a), eles, elas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "les-5-2",
+    "moduleId": "mod-5",
+    "order": 2,
+    "title": "Introdução aos 7 Casos (Padeži)",
+    "summary": "Entenda sem mistério por que o final das palavras muda em sérvio e conheça os casos mais usados por iniciantes.",
+    "durationMinutes": 12,
+    "level": "Básico",
+    "includesAlphabetBoard": false,
+    "sections": [
+      {
+        "heading": "Para que servem os casos?",
+        "paragraphs": [
+          "Em vez de depender apenas da ordem fixa das palavras ou de muitas preposições, o sérvio muda a terminação dos substantivos e adjetivos para mostrar sua função na frase. Esse sistema chama-se declinação e possui 7 casos (падежи / padeži): Nominativo, Genitivo, Dativo, Acusativo, Vocativo, Instrumental e Locativo.",
+          "Como iniciante, você não precisa decorar tabelas gigantes logo no começo! Foque em entender 3 situações muito frequentes: Nominativo (forma do dicionário), Acusativo (objeto direto / direção de movimento) e Locativo (localização fixa)."
+        ],
+        "examples": [
+          {
+            "id": "ex-5-2-1",
+            "cyrillic": "Београд је велики град.",
+            "latin": "Beograd je veliki grad.",
+            "transliteration": "bê-o-grad iê vê-li-ki grad",
+            "portuguese": "Belgrado é uma cidade grande.",
+            "note": "Nominativo: 'Beograd' é o sujeito da frase (forma básica)."
+          },
+          {
+            "id": "ex-5-2-2",
+            "cyrillic": "Живим у Београду.",
+            "latin": "Živim u Beogradu.",
+            "transliteration": "jí-vim u bê-o-gra-du",
+            "portuguese": "Eu moro em Belgrado.",
+            "note": "Locativo: após 'u' indicando lugar parado, adiciona-se '-u'."
+          },
+          {
+            "id": "ex-5-2-3",
+            "cyrillic": "Пијем кафу са млеком.",
+            "latin": "Pijem kafu sa mlekom.",
+            "transliteration": "pí-iem ká-fu sa mlê-kom",
+            "portuguese": "Eu bebo café com leite.",
+            "note": "Acusativo ('kafu') + Instrumental ('sa mlekom' = com leite)."
+          }
+        ]
+      }
+    ]
+  }
+]

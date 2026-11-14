@@ -1,0 +1,336 @@
+[
+  {
+    "id": "quiz-mod-1",
+    "moduleId": "mod-1",
+    "title": "Quiz do Módulo 1: História, Cirílico e Pronúncia",
+    "description": "Teste seu domínio sobre a regra fonética do sérvio, falsos amigos do cirílico e os sons especiais da Azbuka.",
+    "passingScorePercent": 70,
+    "questions": [
+      {
+        "id": "q1-1",
+        "type": "multiple_choice",
+        "prompt": "Qual é o princípio fonético famoso defendido por Vuk Karadžić na reforma da língua sérvia?",
+        "options": [
+          "Cada palavra deve ter pelo menos uma letra muda de origem histórica",
+          "Escreva como você fala, leia exatamente como está escrito (1 letra = 1 som)",
+          "O alfabeto cirílico deve ser usado apenas em textos religiosos",
+          "As vogais mudam de som dependendo da região da frase"
+        ],
+        "correctIndex": 1,
+        "explanation": "A reforma de Vuk Karadžić estabeleceu uma ortografia puramente fonética: 'Piši kao što govoriš, čitaj kako je napisano' (1 letra = 1 som constante)."
+      },
+      {
+        "id": "q1-2",
+        "type": "multiple_choice",
+        "prompt": "Qual é a leitura correta da palavra em cirílico 'Вода'?",
+        "cyrillicHint": "Вода",
+        "options": [
+          "Boda (bode)",
+          "Voda (água)",
+          "Foda (fogo)",
+          "Goda (ano)"
+        ],
+        "correctIndex": 1,
+        "explanation": "Em cirílico sérvio, a letra 'В' é um falso amigo visual: parece 'B', mas sempre tem som de 'V'. Portanto, Вода lê-se 'Voda' (água)."
+      },
+      {
+        "id": "q1-3",
+        "type": "matching",
+        "prompt": "Associe cada letra cirílica ao seu som equivalente no alfabeto latino sérvio (e pronúncia):",
+        "pairs": [
+          {
+            "id": "p1",
+            "left": "Љ",
+            "leftSub": "ex: Љубав",
+            "right": "Lj (som de 'lh' em filho)"
+          },
+          {
+            "id": "p2",
+            "left": "Њ",
+            "leftSub": "ex: Њива",
+            "right": "Nj (som de 'nh' em banho)"
+          },
+          {
+            "id": "p3",
+            "left": "Р",
+            "leftSub": "ex: Река",
+            "right": "R (som de 'r' vibrante)"
+          },
+          {
+            "id": "p4",
+            "left": "Ш",
+            "leftSub": "ex: Школа",
+            "right": "Š (som de 'ch' em chuva)"
+          }
+        ],
+        "explanation": "Љ equivale a 'lh', Њ a 'nh', Р é a letra R (não P!) e Ш tem som de 'ch' como em chuva."
+      },
+      {
+        "id": "q1-4",
+        "type": "translation",
+        "prompt": "Translitere a palavra em cirílico para o alfabeto latino sérvio (ou significado em português):",
+        "sourceText": "Београд",
+        "sourceSub": "Capital da Sérvia",
+        "direction": "sr-to-pt",
+        "acceptedAnswers": ["beograd", "belgrado"],
+        "displayAnswer": "Beograd (Belgrado)",
+        "hint": "Б = B, Е = E, О = O, Г = G, Р = R, А = A, Д = D",
+        "explanation": "Београд translitera-se exatamente como 'Beograd', que em português chamamos de Belgrado ('Cidade Branca')."
+      }
+    ]
+  },
+  {
+    "id": "quiz-mod-2",
+    "moduleId": "mod-2",
+    "title": "Quiz do Módulo 2: Saudações e Expressões",
+    "description": "Pratique cumprimentos por horário, apresentações pessoais e expressões de cortesia em sérvio.",
+    "passingScorePercent": 70,
+    "questions": [
+      {
+        "id": "q2-1",
+        "type": "multiple_choice",
+        "prompt": "Qual cumprimento você deve usar ao chegar a um lugar às 20h da noite?",
+        "options": [
+          "Dobro jutro",
+          "Laku noć",
+          "Dobro veče",
+          "Doviđenja"
+        ],
+        "correctIndex": 2,
+        "explanation": "'Dobro veče' (Добро вече) significa 'Boa noite' ao chegar. 'Laku noć' é usado apenas ao ir dormir."
+      },
+      {
+        "id": "q2-2",
+        "type": "matching",
+        "prompt": "Associe cada expressão em sérvio ao seu significado em português:",
+        "pairs": [
+          {
+            "id": "m2-1",
+            "left": "Хвала пуно",
+            "leftSub": "Hvala puno",
+            "right": "Muito obrigado(a)"
+          },
+          {
+            "id": "m2-2",
+            "left": "Драго ми је",
+            "leftSub": "Drago mi je",
+            "right": "Prazer em conhecer"
+          },
+          {
+            "id": "m2-3",
+            "left": "Извините",
+            "leftSub": "Izvinite",
+            "right": "Com licença / Desculpe"
+          },
+          {
+            "id": "m2-4",
+            "left": "Довиђења",
+            "leftSub": "Doviđenja",
+            "right": "Até logo (formal)"
+          }
+        ],
+        "explanation": "Essas quatro expressões cobrem agradecimento, apresentação, pedido de desculpas e despedida formal."
+      },
+      {
+        "id": "q2-3",
+        "type": "translation",
+        "prompt": "Como se diz 'Bom dia' (durante a manhã) em sérvio (alfabeto latino ou cirílico)?",
+        "sourceText": "Bom dia (manhã)",
+        "direction": "pt-to-sr",
+        "acceptedAnswers": ["dobro jutro", "добро јутро"],
+        "displayAnswer": "Dobro jutro (Добро јутро)",
+        "hint": "Começa com 'Dobro...'",
+        "explanation": "'Dobro jutro' (Добро јутро) é usado pela manhã; durante o restante do dia usa-se 'Dobar dan'."
+      },
+      {
+        "id": "q2-4",
+        "type": "multiple_choice",
+        "prompt": "Se alguém disser 'Хвала!' para você, qual resposta natural significa 'De nada / Não há de quê'?",
+        "options": [
+          "Како си?",
+          "Нема на чему",
+          "Лаку ноћ",
+          "Одакле сте?"
+        ],
+        "correctIndex": 1,
+        "explanation": "'Нема на чему' (Nema na čemu) ou simplesmente 'Молим' (Molim) são as formas padrão de responder 'De nada'."
+      }
+    ]
+  },
+  {
+    "id": "quiz-mod-3",
+    "moduleId": "mod-3",
+    "title": "Quiz do Módulo 3: Números, Cores e Dias",
+    "description": "Verifique se você reconhece os números iniciais, as cores e os dias da semana.",
+    "passingScorePercent": 70,
+    "questions": [
+      {
+        "id": "q3-1",
+        "type": "matching",
+        "prompt": "Associe os dias da semana em sérvio aos seus equivalentes em português:",
+        "pairs": [
+          {
+            "id": "d1",
+            "left": "Понедељак",
+            "leftSub": "Ponedeljak",
+            "right": "Segunda-feira"
+          },
+          {
+            "id": "d2",
+            "left": "Среда",
+            "leftSub": "Sreda",
+            "right": "Quarta-feira"
+          },
+          {
+            "id": "d3",
+            "left": "Петак",
+            "leftSub": "Petak",
+            "right": "Sexta-feira"
+          },
+          {
+            "id": "d4",
+            "left": "Недеља",
+            "leftSub": "Nedelja",
+            "right": "Domingo"
+          }
+        ],
+        "explanation": "Sreda marca o meio da semana (quarta), Petak vem de 'pet' (cinco/quinto dia útil) e Nedelja é domingo."
+      },
+      {
+        "id": "q3-2",
+        "type": "multiple_choice",
+        "prompt": "Quais são as três cores da bandeira da Sérvia em sérvio?",
+        "options": [
+          "Црвена, плава, бела (Crvena, plava, bela)",
+          "Зелена, жута, црна (Zelena, žuta, crna)",
+          "Плава, зелена, жута (Plava, zelena, žuta)",
+          "Црна, бела, жута (Crna, bela, žuta)"
+        ],
+        "correctIndex": 0,
+        "explanation": "Vermelho (crvena), azul (plava) e branco (bela) são as cores tradicionais da bandeira sérvia."
+      },
+      {
+        "id": "q3-3",
+        "type": "translation",
+        "prompt": "Traduza para o sérvio o número 'cinco' (latino ou cirílico):",
+        "sourceText": "5 (cinco)",
+        "direction": "pt-to-sr",
+        "acceptedAnswers": ["pet", "пет"],
+        "displayAnswer": "Pet (Пет)",
+        "hint": "Três letras: p _ t",
+        "explanation": "Os números de 1 a 5 são: jedan, dva, tri, četiri, pet."
+      }
+    ]
+  },
+  {
+    "id": "quiz-mod-4",
+    "moduleId": "mod-4",
+    "title": "Quiz do Módulo 4: Conversação Prática",
+    "description": "Teste frases úteis para pedir um café, perguntar preços e pedir informações.",
+    "passingScorePercent": 70,
+    "questions": [
+      {
+        "id": "q4-1",
+        "type": "multiple_choice",
+        "prompt": "Como você pergunta 'Quanto custa?' ao comprar algo em Belgrado?",
+        "options": [
+          "Где је центар? (Gde je centar?)",
+          "Колико кошта? (Koliko košta?)",
+          "Како се зовете? (Kako se zovete?)",
+          "Не разумем (Ne razumem)"
+        ],
+        "correctIndex": 1,
+        "explanation": "'Колико кошта?' (Koliko košta?) significa literalmente 'Quanto custa?'."
+      },
+      {
+        "id": "q4-2",
+        "type": "translation",
+        "prompt": "Traduza para o português a frase: 'Рачун, молим.' (Račun, molim.)",
+        "sourceText": "Рачун, молим.",
+        "sourceSub": "Račun, molim.",
+        "direction": "sr-to-pt",
+        "acceptedAnswers": [
+          "a conta, por favor",
+          "a conta por favor",
+          "conta, por favor",
+          "conta por favor"
+        ],
+        "displayAnswer": "A conta, por favor.",
+        "hint": "Frase usada ao terminar uma refeição no restaurante.",
+        "explanation": "'Račun' significa conta/fatura e 'molim' significa por favor."
+      },
+      {
+        "id": "q4-3",
+        "type": "matching",
+        "prompt": "Associe as direções em sérvio aos seus significados:",
+        "pairs": [
+          {
+            "id": "dir1",
+            "left": "Лево",
+            "leftSub": "Levo",
+            "right": "Esquerda"
+          },
+          {
+            "id": "dir2",
+            "left": "Десно",
+            "leftSub": "Desno",
+            "right": "Direita"
+          },
+          {
+            "id": "dir3",
+            "left": "Право",
+            "leftSub": "Pravo",
+            "right": "Reto / Em frente"
+          }
+        ],
+        "explanation": "Levo = esquerda, Desno = direita, Pravo = em frente."
+      }
+    ]
+  },
+  {
+    "id": "quiz-mod-5",
+    "moduleId": "mod-5",
+    "title": "Quiz do Módulo 5: Gramática Essencial",
+    "description": "Confira o que aprendeu sobre gêneros gramaticais, pronomes e a lógica dos casos sérvios.",
+    "passingScorePercent": 70,
+    "questions": [
+      {
+        "id": "q5-1",
+        "type": "multiple_choice",
+        "prompt": "Pela terminação padrão dos substantivos em sérvio, qual gênero pertence à palavra 'море' (mar)?",
+        "options": [
+          "Masculino (termina em consoante)",
+          "Feminino (termina em -a)",
+          "Neutro (termina em -o ou -e)",
+          "Invariável"
+        ],
+        "correctIndex": 2,
+        "explanation": "Substantivos terminados em '-o' ou '-e' no singular são geralmente do gênero neutro (ex: море, јутро, име)."
+      },
+      {
+        "id": "q5-2",
+        "type": "multiple_choice",
+        "prompt": "Por que 'Beograd' vira 'Beogradu' na frase 'Живим у Београду' (Moro em Belgrado)?",
+        "options": [
+          "Porque está no plural",
+          "Porque a preposição 'u' indicando localização fixa exige o caso Locativo",
+          "Porque 'Beograd' passa para o gênero feminino",
+          "É apenas uma variação informal de pronúncia"
+        ],
+        "correctIndex": 1,
+        "explanation": "O caso Locativo indica localização estática e costuma acrescentar '-u' a substantivos masculinos e neutros."
+      },
+      {
+        "id": "q5-3",
+        "type": "translation",
+        "prompt": "Qual é o pronome pessoal para 'Nós' em sérvio?",
+        "sourceText": "Nós",
+        "direction": "pt-to-sr",
+        "acceptedAnswers": ["mi", "ми"],
+        "displayAnswer": "Mi (Ми)",
+        "hint": "Duas letras, parecido com 'me' em inglês na pronúncia.",
+        "explanation": "Os pronomes no plural são: mi (nós), vi (vocês/senhor), oni/one (eles/elas)."
+      }
+    ]
+  }
+]

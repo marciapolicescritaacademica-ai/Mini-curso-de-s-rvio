@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dobrodošli — Minicurso de Língua Sérvia</title>
+    <meta
+      name="description"
+      content="Minicurso interativo de língua sérvia para iniciantes com alfabeto cirílico, exemplos com áudio, quizzes por módulo e trilha de progresso."
+    />
+    <meta property="og:title" content="Dobrodošli — Minicurso de Língua Sérvia" />
+    <meta
+      property="og:description"
+      content="Minicurso interativo de língua sérvia para iniciantes com alfabeto cirílico, exemplos com áudio, quizzes por módulo e trilha de progresso."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=JetBrains+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem('dobrodosli_theme');
+          var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          if (saved === 'dark' || (!saved && prefersDark)) {
+            document.documentElement.classList.add('dark');
+          } else {
+            document.documentElement.classList.remove('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body class="bg-[#FAF8F5] text-[#22252A] dark:bg-[#14161A] dark:text-[#EDEAE4] antialiased selection:bg-[#3B5B8C]/20 selection:text-[#23395B] dark:selection:bg-[#6B8EC2]/30 dark:selection:text-[#F4F1EC]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

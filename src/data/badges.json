@@ -1,0 +1,44 @@
+[
+  {
+    "id": "badge-first-lesson",
+    "title": "Primeiro Passo",
+    "description": "Concluiu sua primeira aula de língua sérvia.",
+    "criteriaLabel": "1 aula concluída",
+    "iconName": "compass"
+  },
+  {
+    "id": "badge-cyrillic-explorer",
+    "title": "Leitor da Azbuka",
+    "description": "Completou todas as aulas do Módulo 1 sobre o alfabeto cirílico e pronúncia.",
+    "criteriaLabel": "Módulo 1 concluído",
+    "iconName": "book"
+  },
+  {
+    "id": "badge-first-quiz",
+    "title": "Conhecimento Testado",
+    "description": "Aprovado em seu primeiro quiz de módulo com 70% ou mais.",
+    "criteriaLabel": "1 quiz aprovado",
+    "iconName": "sparkles"
+  },
+  {
+    "id": "badge-perfect-score",
+    "title": "Nota Máxima",
+    "description": "Alcançou 100% de acertos em qualquer quiz do curso.",
+    "criteriaLabel": "100% em um quiz",
+    "iconName": "award"
+  },
+  {
+    "id": "badge-streak-3",
+    "title": "Ritmo Constante",
+    "description": "Estudou em pelo menos 2 dias seguidos ou manteve sequência ativa.",
+    "criteriaLabel": "Sequência de 2+ dias",
+    "iconName": "flame"
+  },
+  {
+    "id": "badge-course-master",
+    "title": "Odlično! Curso Completo",
+    "description": "Concluiu todas as aulas disponíveis nos cinco módulos do minicurso.",
+    "criteriaLabel": "100% das aulas concluídas",
+    "iconName": "graduation"
+  }
+]
